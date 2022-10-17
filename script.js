@@ -1,5 +1,6 @@
 function CommingSoon()
 {
-    alert("Comming Soon")
+//     alert("Comming Soon")
+    swal("", "Comming Soon", "success");
 
 }
