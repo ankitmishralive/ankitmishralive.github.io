@@ -110,3 +110,7 @@ footer div center h4{
     /* font-family: sans-serif; */
     color: white;
 }
+
+.swal-overlay {
+    background-color: rgba(58, 48, 75, 0.995);
+  }
